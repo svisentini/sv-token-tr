@@ -19,6 +19,8 @@ Serão exibidas as informações juntamente com o token gerado.
 
 Obs: O token será copiado automaticamente para o clipboard.
 
+![img.png](img.png)
+
 # Para gerar o .jar
 Build >> Build Artifacts
 
